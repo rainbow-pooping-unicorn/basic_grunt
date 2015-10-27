@@ -1,0 +1,15 @@
+{
+  "name": "gruntbase_css",
+  "version": "0.0.0",
+  "description": "basic grunt for browsersync (only css)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Berit Haak",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-browser-sync": "~2.1.3",
+    "grunt": "~0.4.5"
+  }
+}
